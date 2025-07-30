@@ -1,0 +1,17 @@
+# Mood Light
+
+A customizable mood light project that changes color based on time and interaction
+## ✨ Features
+
+- Smooth RGB color transitions
+- Multiple colors that change.
+- User interaction (e.g., button press or sensor input)
+- Simple and lightweight code
+
+## 🛠️ Hardware Requirements
+
+- Arduino (or compatible microcontroller)
+- RGB LED (common cathode/anode)
+- Resistors (typically 220Ω for each LED pin)
+- Power source (USB or battery)
+- Optional: potentiometer, button, or sensors (for input)
